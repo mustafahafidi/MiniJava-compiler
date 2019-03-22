@@ -1,0 +1,16 @@
+.classpath
+.gradle/
+.project
+.idea
+*.iml
+*.ipr
+*.bc
+*.exe
+*.ll
+*.o
+
+build/
+testoutput/
+src-generated/
+temp
+bin
