@@ -1,2 +1,2 @@
 # minijava-compiler
-Compiler for a minimal version of java specification called minijava
+Compiler for a minimal version of Java's specification called MiniJava.
